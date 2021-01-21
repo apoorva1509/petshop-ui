@@ -1,0 +1,130 @@
+.nav-header{
+    width: 100%;
+    grid-area: 10%;
+}
+.image{
+    width: 10%;
+    height: 2%;
+}
+
+.winter{
+    width: 75%;
+    margin-left: 4%;
+    
+    height: 350px;
+    right: 30%;
+    
+    
+}
+.big-heading{
+    margin-top:7%;
+    margin-right: 7%;
+    font-size: 50px;
+    color: red;
+}
+.winter-txt{
+    font-size: 40px;
+    font-style: italic;
+    
+    color: grey;
+}
+#features{
+    background-color: #fff;
+    position: relative;
+    
+    
+}
+.dogs_heading{
+    display: inline-block;
+    width: 180px;
+    box-sizing: border-box;
+    height: 14px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0086/0795/7054/files/divider.svg?v=1608364653);
+}
+.shop_dogs{
+    margin-top: 3%;
+    text-align: center;
+    
+}
+.dog-txt{
+    
+    margin-bottom: 2%;
+    width: 240px;
+    font-weight: bold;
+    
+}
+.dog-cont{
+    height: 313px;
+    margin-bottom: 2%;
+}
+.car-cont{
+    width: 70%;
+    height: 650px;    
+}
+.car-img2{
+    height: 600px;
+    
+}
+.car-img1{
+    width: 135%;
+    height: 700px;
+}
+.car-img4{
+    height: 600px;
+}
+.car-img3{
+    width:180%;
+    height: 600px;
+    
+}
+.cat-cont{
+    height: 600px;
+}
+.make-pooch{
+    margin-top: 10%;
+    font-size: 25px;
+    margin-bottom: 20%;
+}
+.perbed{
+    width: 534px;
+    height: 280.41px;
+    text-align: center;
+    padding: 2%;
+}
+.per{
+    width: 139.66px;
+    height: 162px;
+    padding: 2%;
+}
+.ema{
+    margin-top: 10%;
+    margin-bottom: 6%;
+}
+#email_id{
+    border: orange 1px solid;
+    width: 378px;
+    border-radius: 5px;
+    height: 30px;
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+    
+  }
+  h4{
+      font-size: 15px;
+  }
+  .social-icon {
+    margin: 20px 10px;
+    background-color: white;
+  }
+  .foot-link{
+      font-size: 13px;
+  }
+  .position-lg-static{
+      position: static;
+  }
+  
+  .sale-cont{
+      padding: 5%;
+  }
